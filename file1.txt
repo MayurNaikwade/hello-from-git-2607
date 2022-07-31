@@ -1,2 +1,6 @@
 Hello from Git!!!!
+
+some code.....from dev2 | branch2
+
 some code.....from dev1 | branch1
+
